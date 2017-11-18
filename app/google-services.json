@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "286423717728",
+    "firebase_url": "https://thtry-84c51.firebaseio.com",
+    "project_id": "thtry-84c51",
+    "storage_bucket": "thtry-84c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286423717728:android:f9f00a0f592a23ec",
+        "android_client_info": {
+          "package_name": "com.example.flychicken.a4thtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286423717728-cfbk6l75n11vrd63evu036pna027v3c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flychicken.a4thtry",
+            "certificate_hash": "90aa89ed3fa75867a5c6f1b16ee955f6593f61a3"
+          }
+        },
+        {
+          "client_id": "286423717728-pp4limjgsqakcbb0illj4vc69vegidnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDybThZOjTGT7HWifbkki39m9nmm7nlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286423717728-pp4limjgsqakcbb0illj4vc69vegidnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
